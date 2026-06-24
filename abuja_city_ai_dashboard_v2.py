@@ -110,16 +110,16 @@ class AbujaAIBot:
             return "Hello! Welcome to Abuja City AI. I can help you explore Nigeria's capital. Ask me about landmarks, districts, culture, food, or anything about Abuja!"
         if any(word in user_input for word in ["help", "what can you do", "capabilities", "features"]):
             return "I can help you with":
-    Historical facts about Abuja
-🗺️ Information about districts and landmarks
-📊 Real-time city analytics and data
-🌤️ Weather updates and forecasts
-🚗 Traffic conditions and routes
-💡 Economic and demographic insights
-🎭 Cultural events and attractions
-🍲 Food and restaurant recommendations
-🏘️ Real estate and housing info
-🛡️ Safety and security information
+  Historical facts about Abuja
+  Information about districts and landmarks
+  Real-time city analytics and data
+  Weather updates and forecasts
+  Traffic conditions and routes
+  Economic and demographic insights
+  Cultural events and attractions
+  Food and restaurant recommendations
+  Real estate and housing info
+  Safety and security information
 
 Try asking something specific!"
         if any(word in user_input for word in ["landmark", "places", "visit", "see", "tourist", "attraction", "monument"]):
