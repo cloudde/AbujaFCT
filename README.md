@@ -1,4 +1,4 @@
-# Abuja City AI Dashboard v2.0
+# AbujaFCT AI Dashboard v2.0
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-abuja-city-ai.streamlit.app)
 
